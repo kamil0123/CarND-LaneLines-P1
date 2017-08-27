@@ -1,6 +1,6 @@
 This is my submission of the Finding Lane Lines project of Udacity "Self-Driving Car Engineer" Nanodegree.
 
-My implementation of the project with, short descrption of taken steps, is in P1.ipynb file.
+My implementation of the project, with short descrption of taken steps, is in P1.ipynb file.
 
 Film showing my results:
 https://www.youtube.com/watch?v=h7SFE5o5-38&edit=vd
